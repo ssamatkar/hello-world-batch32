@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>This is the last lab of devops!!!!</h1>
+	<h1>This is the webhooks lab of devops!!!!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
